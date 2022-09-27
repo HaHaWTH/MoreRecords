@@ -1,0 +1,36 @@
+{
+  "group": "allmusicdisc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:reeds"
+    },
+    "1": {
+      "item": "allmusicdisc:record_none"
+    },
+    "2": {
+      "item": "minecraft:reeds"
+    },
+    "4": {
+      "item": "allmusicdisc:record_pin"
+    },
+    "6": {
+      "item": "minecraft:iron_nugget"
+    },
+    "7": {
+      "item": "minecraft:quartz"
+    },
+    "8": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "allmusicdisc:all_in_onedisc_7",
+    "count": 1
+  }
+}

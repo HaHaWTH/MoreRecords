@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "allmusicdisc:all_in_onedisc_3"
+    },
+    "title": {
+      "translate": "advancements.get_disc_dongzhihua.title"
+    },
+    "description": {
+      "translate": "advancements.get_disc_dongzhihua.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_disc_dongzhihua": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "allmusicdisc:all_in_onedisc_3",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  },
+  "parent": "allmusicdisc:get_record_none"
+}

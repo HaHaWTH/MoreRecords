@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "record_far",
+    "name": "“Ù¿÷≥™∆¨",
+    "description": "THE SIXTH LIE - Shadow is the light",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:allinonemusic.shadow_is_the_light"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

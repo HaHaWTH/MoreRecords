@@ -1,0 +1,83 @@
+{
+  "allinone.onlymyrailgun": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "allmusicdisc:xia_ge_ba__yin_le_mian_fei_xia_zai__yin_le_zai_xian_shi_ting__wu_sun_yin_le_xia_zai_",
+        "stream": true
+      }
+    ]
+  },
+  "allinonemusic.dualexistence": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "allmusicdisc:xia_ge_ba__yin_le_mian_fei_xia_zai__yin_le_zai_xian_shi_ting__wu_sun_yin_le_xia_zai__1",
+        "stream": true
+      }
+    ]
+  },
+  "allinonemusicsistersmoise": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "allmusicdisc:sisters_noise",
+        "stream": true
+      }
+    ]
+  },
+  "allinonemusic.dongzhihua": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "allmusicdisc:dong_zhi_hua",
+        "stream": true
+      }
+    ]
+  },
+  "allinonemusic.sdkl.llsxs": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "allmusicdisc:sdkl_mr_laurence",
+        "stream": true
+      }
+    ]
+  },
+  "allinonemusic.shadow_is_the_light": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "allmusicdisc:shadowisthelight",
+        "stream": true
+      }
+    ]
+  },
+  "allinonemusic.psi_missing": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "allmusicdisc:psi-missing",
+        "stream": true
+      }
+    ]
+  },
+  "allinonemusic.no_buts": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "allmusicdisc:no-buts",
+        "stream": true
+      }
+    ]
+  },
+  "allinonemusic.seevisions": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "allmusicdisc:see-visions",
+        "stream": true
+      }
+    ]
+  }
+}

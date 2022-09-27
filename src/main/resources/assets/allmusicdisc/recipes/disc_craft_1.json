@@ -1,0 +1,25 @@
+{
+  "group": "allindisccrcaft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "allmusicdisc:record_none"
+    },
+    "1": {
+      "item": "allmusicdisc:record_pin"
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 11
+    }
+  },
+  "result": {
+    "item": "allmusicdisc:all_in_onedisc_1",
+    "count": 1
+  }
+}

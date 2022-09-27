@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "record_far",
+    "name": "ºÀ ¿¡ ½ð Çú",
+    "description": "Ûà±¾ýˆÒ» - Merry Christmas Mr. Lawrence",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:allinonemusic.sdkl.llsxs"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

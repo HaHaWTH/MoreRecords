@@ -1,0 +1,24 @@
+{
+  "group": "allmusicdisc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "allmusicdisc:record_none"
+    },
+    "1": {
+      "item": "allmusicdisc:record_pin"
+    },
+    "2": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "item": "allmusicdisc:all_in_onedisc_8",
+    "count": 1
+  }
+}

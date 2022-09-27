@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "record_far",
+    "name": "“Ù¿÷≥™∆¨",
+    "description": "¥®ÃÔ§ﬁ§ﬂ - No buts!",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:allinonemusic.no_buts"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "record_far",
+    "name": "“Ù¿÷≥™∆¨",
+    "description": "fripSide - Dual Existence",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:allinonemusic.dualexistence"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

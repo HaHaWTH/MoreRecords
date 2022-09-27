@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "allmusicdisc:all_in_onedisc_5"
+    },
+    "title": {
+      "translate": "advancements.get_disc_shadowisthelight.title"
+    },
+    "description": {
+      "translate": "advancements.get_disc_shadowisthelight.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "get_disc_shadowisthelight": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "allmusicdisc:all_in_onedisc_5",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 20
+  },
+  "parent": "allmusicdisc:get_record_none"
+}

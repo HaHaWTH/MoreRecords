@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "record_far",
+    "name": "“Ù¿÷≥™∆¨",
+    "description": "¥®ÃÔ§ﬁ§ﬂ - PSI-missing",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:allinonemusic.psi_missing"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

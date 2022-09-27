@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.REEDS"
+      },
+      {
+        "value": "CUSTOM:RecordNone"
+      },
+      {
+        "value": "Blocks.REEDS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RecordPin"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.IRON_NUGGET"
+      },
+      {
+        "value": "Items.QUARTZ"
+      },
+      {
+        "value": "Items.IRON_NUGGET"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AllInOnedisc7"
+    },
+    "name": "craft_disc_nobuts",
+    "namespace": "mod"
+  }
+}

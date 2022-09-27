@@ -1,0 +1,17 @@
+{
+  "_fv": 18,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "record_far",
+    "name": "豪 俊 金 曲",
+    "description": "宫本浩次 - 冬之花",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:allinonemusic.dongzhihua"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

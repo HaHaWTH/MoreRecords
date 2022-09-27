@@ -1,0 +1,31 @@
+{
+  "group": "allmusicdisc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    " 4 ",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "allmusicdisc:record_none"
+    },
+    "4": {
+      "item": "allmusicdisc:record_pin"
+    },
+    "6": {
+      "item": "minecraft:gold_nugget"
+    },
+    "7": {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "8": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "allmusicdisc:all_in_onedisc_3",
+    "count": 1
+  }
+}

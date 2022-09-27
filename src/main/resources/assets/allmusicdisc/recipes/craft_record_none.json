@@ -1,0 +1,35 @@
+{
+  "group": "allmusicdisc",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dye",
+      "data": 0
+    },
+    "1": {
+      "item": "minecraft:coal",
+      "data": 0
+    },
+    "2": {
+      "item": "minecraft:dye",
+      "data": 0
+    },
+    "3": {
+      "item": "minecraft:obsidian"
+    },
+    "4": {
+      "item": "minecraft:obsidian"
+    },
+    "5": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "allmusicdisc:record_none",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "allmusicdisc",
+    "name": "AllInOneDisc",
+    "description": "We add more records to minecraft!",
+    "version": "1.0.3",
+    "credits": "This mod uses GPLv3 open source license",
+    "logoFile": "assets/allmusicdisc/textures/280px-9694490.png",
+    "mcversion": "1.12.2",
+    "url": "https://1919810.com",
+    "updateUrl": "",
+    "authorList": [
+      "HeyWTF_IS_That"
+      "van_darkholme"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]
